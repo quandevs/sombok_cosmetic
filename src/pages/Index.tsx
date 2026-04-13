@@ -136,7 +136,7 @@ const Index = () => {
         >
           SOMBOK COSMETIC
         </h1>
-        <p className="text-muted-foreground text-sm mb-8">
+        <p className="text-muted-foreground text-sm mb-8" style={{ fontFamily: "'Poppins', sans-serif" }}>
           ✨ Beauty & Skincare Products ✨
         </p>
 
@@ -167,7 +167,7 @@ const Index = () => {
                   className="w-10 h-10 object-contain"
                 />
               </div>
-              <span className="text-foreground font-medium text-base group-hover:text-primary transition-colors">
+              <span className="text-foreground font-medium text-base group-hover:text-primary transition-colors" style={{ fontFamily: "'Poppins', sans-serif" }}>
                 {link.name}
               </span>
             </a>
