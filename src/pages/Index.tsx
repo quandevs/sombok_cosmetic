@@ -164,7 +164,7 @@ const Index = () => {
                   width={192}
                   height={192}
                   loading="lazy"
-                  className="w-8 h-8 object-contain"
+                  className="w-10 h-10 object-contain"
                 />
               </div>
               <span className="text-foreground font-medium text-base group-hover:text-primary transition-colors">
