@@ -131,8 +131,8 @@ const Index = () => {
 
         {/* Brand Name */}
         <h1
-          className="text-2xl font-bold tracking-wide text-foreground mb-1"
-          style={{ fontFamily: "'Segoe UI', sans-serif" }}
+          className="text-2xl font-bold tracking-widest text-foreground mb-1"
+          style={{ fontFamily: "'Playfair Display', serif" }}
         >
           SOMBOK COSMETIC
         </h1>
