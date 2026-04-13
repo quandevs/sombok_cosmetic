@@ -157,7 +157,7 @@ const Index = () => {
                 transition: `all 0.5s ease ${i * 80}ms`,
               }}
             >
-              <div className="w-12 h-12 rounded-full bg-secondary flex items-center justify-center flex-shrink-0">
+              <div className="w-14 h-14 rounded-full bg-secondary flex items-center justify-center flex-shrink-0">
                 <img
                   src={link.icon}
                   alt={link.name}
