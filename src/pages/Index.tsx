@@ -157,14 +157,14 @@ const Index = () => {
                 transition: `all 0.5s ease ${i * 80}ms`,
               }}
             >
-              <div className="w-12 h-12 rounded-full bg-secondary flex items-center justify-center flex-shrink-0">
+              <div className="w-14 h-14 rounded-full bg-secondary flex items-center justify-center flex-shrink-0">
                 <img
                   src={link.icon}
                   alt={link.name}
                   width={192}
                   height={192}
                   loading="lazy"
-                  className="w-8 h-8 object-contain"
+                  className="w-10 h-10 object-contain"
                 />
               </div>
               <span className="text-foreground font-medium text-base group-hover:text-primary transition-colors">
